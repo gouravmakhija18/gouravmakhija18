@@ -1,7 +1,7 @@
 # Gourav Mukhija
 [![Linkedin Badge](https://img.shields.io/badge/-gouravmukhija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouravmukhija/)](https://www.linkedin.com/in/gouravmukhija/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/gourav-makhija)](https://stackoverflow.com/users/1077910/gourav-makhija)
-[![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)](https://gouravmukhija.medium.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=gouravmakhija18&color=green)](https://gouravmukhija.medium.com/)
 
 ## Hi 👋 I'm Gourav Mukhija, 
 I'm a Full Stack developer working with Publicis Sapient and passionate about JavaScript technologies and its entire ecosystem. 
