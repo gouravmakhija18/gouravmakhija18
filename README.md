@@ -7,10 +7,10 @@
 I'm a Full Stack developer working with Publicis Sapient and passionate about JavaScript technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on automobile project.
-- 🌱 I’m currently learning MongoDB
--  ⚡ Technologies: React, Node, JavaScript, MongoDB, ExpressJS, HTML5, ES6+
+- 🌱 I’m currently learning KeystoneJS.
+-  ⚡ Technologies I love: ReactJS, NodeJS, JavaScript, MongoDB, ExpressJS, HTML5, ES6+, keystoneJS, GraphQL
 
-"Do not expect from others what you expect of yourself." 
+"Do not expect from others what you expect from yourself." 
 
 <p align="justify">
   <a href="https://github.com/gouravmakhija18/github-readme-stats">
@@ -27,9 +27,11 @@ I'm a Full Stack developer working with Publicis Sapient and passionate about Ja
 </p>
 
 ### Technologies:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/graphql/artwork/main/GraphQL_Foundation/icon/GraphQL_Foundation-mark.png"></code>
+<code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
