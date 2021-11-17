@@ -3,12 +3,13 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/gourav-makhija)](https://stackoverflow.com/users/1077910/gourav-makhija)
 [![Profile Views](https://komarev.com/ghpvc/?username=gouravmakhija18&color=green)](https://gouravmukhija.medium.com/)
 
-## Hi 👋 I'm Gourav Mukhija, 
-I'm a Full Stack developer working with Publicis Sapient and passionate about JavaScript technologies and its entire ecosystem. 
+## Hi 👋 I'm Gourav Mukhija (10 Years of experience), 
+I'm a Full Stack developer working with Publicis Sapient and passionate about modern frontend technologies and its entire ecosystem. 
 
-- 🔭 I’m currently working on automobile project.
-- 🌱 I’m currently exploring KeystoneJS.
--  ⚡ Technologies I love and works on: ReactJS, NodeJS, JavaScript, Typescript, ExpressJS, HTML5/CSS3, ES6+, GraphQL
+- 🔭 I’m **currently working** on Automobile project.
+- 🌱 I’m **currently exploring** MongoDB, KeystoneJS.
+-  ⚡ **Technologies I love and works on**: 
+     ReactJS, NodeJS, JavaScript, Typescript, ExpressJS, HTML5/CSS3, ES6+, GraphQL
 
 Favourite Liner - "Do not expect from others what you expect only from yourself." 
 
