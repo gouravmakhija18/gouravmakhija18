@@ -7,10 +7,10 @@
 I'm a Full Stack developer working with Publicis Sapient and passionate about JavaScript technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on automobile project.
-- 🌱 I’m currently learning KeystoneJS.
--  ⚡ Technologies I love: ReactJS, NodeJS, JavaScript, MongoDB, ExpressJS, HTML5, ES6+, keystoneJS, GraphQL
+- 🌱 I’m currently exploring KeystoneJS.
+-  ⚡ Technologies I love and works on: ReactJS, NodeJS, JavaScript, Typescript, ExpressJS, HTML5/CSS3, ES6+, GraphQL
 
-"Do not expect from others what you expect from yourself." 
+Favourite Liner - "Do not expect from others what you expect only from yourself." 
 
 <p align="justify">
   <a href="https://github.com/gouravmakhija18/github-readme-stats">
