@@ -7,7 +7,7 @@
 I'm a AEM UI Developer, working with Adobe and passionate about modern frontend technologies and its entire ecosystem. 
 
 - 🔭 I’m **currently working** on Automobile project.
-- 🌱 I’m **currently exploring** MongoDB, KeystoneJS.
+- 🌱 I’m **currently exploring** ElectronJS.
 -  ⚡ **Technologies I love and works on**: 
      ReactJS, NodeJS, JavaScript, Typescript, ExpressJS, HTML5/CSS3, ES6+, GraphQL
 
