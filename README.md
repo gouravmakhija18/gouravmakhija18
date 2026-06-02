@@ -6,10 +6,9 @@
 ## Hi 👋 I'm Gourav Mukhija, 
 I'm a AEM UI Developer, working with Adobe and passionate about modern frontend technologies and its entire ecosystem. 
 
-- 🔭 I’m **currently working** on Automobile project.
-- 🌱 I’m **currently exploring** ElectronJS.
+- 🌱 I’m **currently exploring** EDS Tools.
 -  ⚡ **Technologies I love and works on**: 
-     ReactJS, NodeJS, JavaScript, Typescript, ExpressJS, HTML5/CSS3, ES6+, GraphQL
+     ReactJS, NodeJS, JavaScript, Typescript, ExpressJS, HTML5/CSS3, ES6+, AI
 
 Favourite Liner - "Do not expect from others what you expect only from yourself." 
 
